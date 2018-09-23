@@ -1,0 +1,25 @@
+{
+  "name": "016_Koa.js_Crash_Course_NodeJS",
+  "version": "1.0.0",
+  "description": "Learning koa.js",
+  "main": "app.js",
+  "dependencies": {
+    "koa": "^2.5.3",
+    "koa-bodyparser": "^4.2.1",
+    "koa-ejs": "^4.1.2",
+    "koa-json": "^2.0.2",
+    "koa-router": "^7.4.0",
+    "npm": "^6.4.1",
+    "to": "^0.2.9",
+    "update": "^0.7.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Kevin Zhang",
+  "license": "ISC"
+}
